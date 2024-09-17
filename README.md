@@ -11,7 +11,7 @@ A comprehensive admin dashboard designed for effective monitoring and data visua
 
 ## Screenshots
 
-![Alt Text]([relative/path/to/your/image.png](https://github.com/niteshsingh1512/Admin-Dashboard/blob/2c4ac3a014aa1497a69f71ae4c53f6da9965f410/Screenshot%20(433).png))
+![Alt Text](https://github.com/niteshsingh1512/Admin-Dashboard/blob/997e4494cbe084ef16f30c6477f0a6cc3ca451ad/Screenshot%20(433).png)
 ![Alt Text](https://github.com/niteshsingh1512/Admin-Dashboard/blob/501098fd78660e1646ca0355a266aabf6bbb09de/Screenshot%20(435).png)
 
 ## Tech Stack
