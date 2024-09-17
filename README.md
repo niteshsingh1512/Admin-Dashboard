@@ -1,8 +1,22 @@
-# React + Vite
+# Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A comprehensive admin dashboard designed for effective monitoring and data visualization. This project includes various charts and graphs, along with customizable themes to enhance user experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Dynamic Graphs and Charts**: Real-time data visualization with multiple chart options.
+- **Dark/Light Mode**: Seamless switching between dark and light themes for better accessibility.
+- **Customizable Color Themes**: Users can switch and personalize color themes for both dark and light modes.
+- **Responsive Design**: Works well on all screen sizes and devices.
+
+## Screenshots
+
+*Include some screenshots or gifs of your dashboard here to showcase its features.*
+
+## Tech Stack
+
+- **Frontend**: React.js
+- **UI Components**: Syncfusion
+- **State Management**: Context API
+- **Icons**: React Icons
+- **Styling**: CSS/SCSS
